@@ -1,6 +1,6 @@
-package structural.designpatternsinjava.bridge.shape1;
+package structural.designpatternsinjava.bridgebefore.shape1;
 
-public class RedSquare extends Sqaure{
+public class BlueSquare extends Sqaure{
 
     @Override
     public void applyColor() {

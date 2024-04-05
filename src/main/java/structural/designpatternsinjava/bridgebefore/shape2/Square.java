@@ -1,4 +1,4 @@
-package structural.designpatternsinjava.bridge.shape2;
+package structural.designpatternsinjava.bridgebefore.shape2;
 
 public class Square extends Shape{
 
