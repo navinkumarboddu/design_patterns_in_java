@@ -1,4 +1,4 @@
-package structural.designpatternsinjava.adapter;
+package structural.designpatternsinjava.adapterafter;
 
 import java.util.StringTokenizer;
 

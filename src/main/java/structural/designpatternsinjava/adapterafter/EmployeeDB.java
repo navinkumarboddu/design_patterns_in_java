@@ -1,4 +1,4 @@
-package structural.designpatternsinjava.adapter;
+package structural.designpatternsinjava.adapterafter;
 
 public class EmployeeDB implements Employee {
 
