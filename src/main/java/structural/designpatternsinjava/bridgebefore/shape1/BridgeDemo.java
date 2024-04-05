@@ -1,4 +1,4 @@
-package structural.designpatternsinjava.bridge.shape1;
+package structural.designpatternsinjava.bridgebefore.shape1;
 
 public class BridgeDemo {
 
