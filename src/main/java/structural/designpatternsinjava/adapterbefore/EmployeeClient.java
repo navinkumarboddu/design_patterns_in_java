@@ -1,7 +1,4 @@
-package structural.designpatternsinjava.adapter;
-
-import structural.designpatternsinjava.adapter.Employee;
-import structural.designpatternsinjava.adapter.EmployeeDB;
+package structural.designpatternsinjava.adapterbefore;
 
 import java.util.ArrayList;
 import java.util.List;
